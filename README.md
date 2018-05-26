@@ -1,2 +1,2 @@
 # StaticResourceRepo
-this is a repo for my static resources, such as image/css/js, etc
+这里放了一些二次开发但是又没有写成git项目形式的代码，比较繁琐，所以干脆打包成rar，方便后面自取自用
